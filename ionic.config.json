@@ -1,5 +1,7 @@
 {
   "name": "transition",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
